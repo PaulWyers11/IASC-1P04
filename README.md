@@ -8,4 +8,4 @@ Playtest my game [here]
 
 ## Prototype
 
-Play my Prototype [here](prototype/First Contact.html)
+Play my Prototype [here](Prototype/First Contact.html)
