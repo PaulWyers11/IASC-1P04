@@ -1,10 +1,10 @@
-# IASC-1P04 Paul Wyers
+# IASC-1P04 First Contact
 
 Welcome to the website for my Twine game created for the course IASC 1P04 at Brock University
 
-## Playtest
+## Play now
 
-Playtest my game [here](Playtest/Playtest)
+Playtest my game [here](Final_Build/First Contact.html)
 
 ## Prototype
 
